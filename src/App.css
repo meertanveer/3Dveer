@@ -1,0 +1,128 @@
+/* .App {
+  text-align: center;
+}
+.main-container {
+  width: 360px;
+}
+.main-container .option-container .heading-1{
+ background-color: rgb(24, 24, 46);
+}
+.main-container .option-container  .option{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  justify-content: space-between;
+  color: black;
+  line-height: 50px;
+}
+.main-container .option-container .logo-title{
+  display: flex;
+  align-items: center;
+  gap: 20px;
+
+}
+.main-container .option-container .logo-sm {
+  border: 1px solid #ccc;
+  border-radius: 50%;
+  padding: 5px;
+  background-color: #ccc;
+}
+.main-container .option-container .logo-sm1 {
+  border: 1px solid #ccc;
+  border-radius: 50%;
+  padding: 5px;
+  background-color: #ccc;
+  cursor: pointer;
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.login-btn{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.login-btn p{
+  width: 100px;
+  height: 40px;
+  color: white;
+  background-color: rgb(32, 32, 49);
+  border-radius: 4px;
+  cursor: pointer;
+}
+.login-btn p:hover{
+  background-color: rgb(69, 69, 92);
+}
+.main-wrapper{
+  border: 1px solid #ccc;
+  border-radius: 50px;
+  height: 64px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: rgb(32, 32, 49); ;
+}
+.main-wrapper .active{
+  background-color: yellow;
+  border-radius: 50%;
+  padding: 6px;
+}
+.main-wrapper .chin-ico{
+  border-radius: 50%;
+  padding: 6px;
+}
+.main-wrapper .chin-ico:hover{
+background-color: yellow;
+cursor: pointer;
+} */
+
+
+
+/* 
+
+
+
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+
+/* Custom media query for mobile devices */
+@media only screen and (max-width: 640px) {
+  .title-sm{
+    font-size: 16px;
+    font-weight: bold;
+  }
+  .font-sm{
+   font-size: 10px;
+  }
+  
+}
+
+
